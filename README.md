@@ -1,6 +1,6 @@
 # FFmpegDemo
 Android-NDK音视频开发：FFmpeg的使用
-视频、直播播放器。已学习
+视频、直播播放器。已学习，c++基本写法，音视频播放 的 ffmpeg的基本用法，jni的基本用法包括回调java，线程、锁的基本用法，引用静态库的基本用法，as项目写cc++的基本用法
 
 [NDK开发汇总](https://blog.csdn.net/baopengjian/article/details/104615972)
 
