@@ -1,5 +1,6 @@
 # FFmpegDemo
 Android-NDK音视频开发：FFmpeg的使用
+视频、直播播放器。已学习
 
 [NDK开发汇总](https://blog.csdn.net/baopengjian/article/details/104615972)
 
